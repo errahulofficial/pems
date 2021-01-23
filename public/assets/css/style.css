@@ -1,0 +1,30 @@
+/* .alert {
+    padding: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+    border: 1px solid transparent;
+    border-radius: 4px;
+} */
+.d-flex{
+    display: flex!important;
+}
+.align-items-center{
+    align-items: center
+}
+.p-0{
+    padding: 0
+}
+.py-0{
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.px-10{
+    padding-left:10px;
+    padding-right:10px
+}
+.alert ul ,.alert ul li
+{
+    list-style-type: none;
+    padding-inline-start: 10px
+}

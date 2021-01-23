@@ -1,0 +1,1 @@
+{!!$CareersFirstMailSendTemplate->mailBodyData!!}

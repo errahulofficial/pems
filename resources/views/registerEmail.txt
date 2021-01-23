@@ -1,0 +1,24 @@
+<p>Olá {first_name} {last_name},</p>
+
+<p>Agradecemos pelo seu tempo gasto durante a nossa entrevista. Após conversarmos com você durante a entrevista, acreditamos que você tenha um perfil compatível para a posição de Representante Comercial!</p>
+
+<p>Nós queremos oferecer formalmente a posição de Representante Comercial para você.</p>
+
+<p>Caso você queira aceitar nossa oferta de emprego, basta clicar no link abaixo e seguir as instruções:</p>
+
+<p>{login_link}</p>
+
+<p>Atenção: o site listado acima é otimizado para o Google Chrome e Mozilla Firefox em computadores desktop. Se você tentar acessar o site usando um navegador que não seja um destes dois, ou a partir de um dispositivo móvel, é possível que você encontre erros. Se você precisar baixar um desses navegadores, por favor, acesse os links abaixo:</p>
+
+<p>http://www.google.com/chrome  </p>
+
+<p>http://www.mozilla.com</p>
+
+<p>Quando você acessar o link acima, você receberá instruções sobre o que deverá fazer para iniciar formalmente sua carreira na Neovora.</p>
+
+
+<p>Atenciosamente,</p>
+
+<p>{from_name}</p>
+<p>{job_position}</p>
+<p>www.neovora.com.br</p>
